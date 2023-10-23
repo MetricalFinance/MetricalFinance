@@ -1,6 +1,6 @@
 @MetricalFinance
 
-This repository will contain Python code examples as referred to on MetricalFinance.
+This repository contains Excel and Python files as referred to in examples on MetricalFinance.
 
 Website: https://metricalfinance.com/
 
